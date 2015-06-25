@@ -1,14 +1,7 @@
-# Heroku Static
-
-Static file site template for Heroku.
-
-## USAGE
-
-    $ git clone git://github.com/komagata/heroku-static.git
-    $ cd heroku-static
-    $ heroku create foo-bar-buz
-    $ git push heroku master
-
-## LISENCE
-
-MIT LISENCE
+# webRPGtoolのデモページ
+https://frozen-fortress-3694.herokuapp.com/
+##トップページ
+![](public/image/top.png)
+##詳細ページ
+![](public/image/buttom.png)
+![](public/image/show_buttom.png)
